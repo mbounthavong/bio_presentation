@@ -215,11 +215,11 @@ Los Angeles, CA
 
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="index/images/ecea_project.png" height="250" width="690"> </p>
+<p class="fragment"> <img src="index/images/ecea_project.png" width="600"> </p>
 </div>
 
 <div class="col">
-<p class="fragment"> <img src="index/images/ecea_framework.png" height="315" width="300"> </p>
+<p class="fragment"> <img src="index/images/ecea_framework.png" width="400"> </p>
 </div>
 </div>
 

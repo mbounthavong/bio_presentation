@@ -181,7 +181,6 @@ Los Angeles, CA
 <p class="fragment"> [AJHP. 2009;66(21):1943-1947.](https://academic.oup.com/ajhp/article-abstract/66/21/1943/5130388) </p>
 
 
-
 ## VA Pharmacy Benefits Management Academic Detailing Services {data-background=#02569B}
 
 <p class="fragment"> <img src="index/images/va_ads.png" height="400" width="500"> </p>

@@ -152,6 +152,7 @@ Los Angeles, CA
 
 <p class="fragment"> [JAMA Psychiatry. 2021;78(7):767-777.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2778020) </p>
 
+
 ## VA HERC - Economics of opioid overdose
 
 <div class="container">
@@ -223,6 +224,23 @@ Los Angeles, CA
 </div>
 
 <p class="fragment"> <i>"The overall aim of this pilot project is to identify strategies of distributing naloxone among a population of opioid users in the US that would maximize the equity and financial risk protection benefits."</i> </p>
+
+
+## Mission - UCI
+
+<p class="fragment"> <img src="index/images/uci_mission.png" width="500"> </p>
+
+
+## Oath of the Pharmacist
+
+<p class="fragment"> <img src="index/images/pharmacist_oath.png" height="520" width="400"> </p>
+
+
+## What are your mission, purpose, and vision?
+
+<p class="fragment"> <img src="index/images/mission_purpose.png" width="800"> </p>
+
+<p class="fragment"> [People With Purpose](https://www.peoplewithpurpose.com/blogs/purposemissionandvision) </p>
 
 
 ## Who I am and What I do

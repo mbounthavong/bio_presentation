@@ -1,0 +1,10 @@
+
+
+
+.reveal section figcaption {
+  font-size: 0.3em;
+}
+
+html.dim-background .slide-background {
+    opacity: 0.4 !important;
+}

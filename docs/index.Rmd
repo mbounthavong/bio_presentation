@@ -171,7 +171,7 @@ Los Angeles, CA
 ## VA San Diego Healthcare System
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="index/images/ed_pharmacy.png" height="250" width="684"> </p>
+<p class="fragment"> <img src="index/images/ed_pharmacy.png" width="684"> </p>
 </div>
 
 <div class="col">

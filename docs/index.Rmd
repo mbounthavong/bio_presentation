@@ -93,7 +93,7 @@ Los Angeles, CA
 </div>
 
 <div class="col">
-  <img class="fragment" src="index/images/valomalinda.png" width="125" height="100">
+  <img class="fragment" src="index/images/lomalinda.jfif" width="125" height="100">
   <p class="fragment"> (2004-2005) </p> 
 </div>
 

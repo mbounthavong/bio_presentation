@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="container">
 <div class="col">
-<p class="fragment fade-up"> <img src="UCI-presentation-March-2023_files/images/portrait.jpeg" height="140" width="100"> </p>
+<p class="fragment fade-up"> <img src="index/images/portrait.jpeg" height="140" width="100"> </p>
 </div>
 
 <div class="col">
@@ -42,16 +42,16 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 <div class="col">
-<p class="fragment fade-up"> [<img src="UCI-presentation-March-2023_files/images/ninja.png" height="60" width="60">](www.mbounthavong.com) </p>
-<p class="fragment fade-up"> [<img src="UCI-presentation-March-2023_files/images/github.png" height="60" width="60">](https://github.com/mbounthavong) </p>
+<p class="fragment fade-up"> [<img src="index/images/ninja.png" height="60" width="60">](www.mbounthavong.com) </p>
+<p class="fragment fade-up"> [<img src="index/images/github.png" height="60" width="60">](https://github.com/mbounthavong) </p>
 </div>
 </div>
 
 
-## Where I'm from {data-background="UCI-presentation-March-2023_files/images/griffith.jpg" data-state="dim-background"}
+## Where I'm from {data-background="index/images/griffith.jpg" data-state="dim-background"}
 
 
-<img src="UCI-presentation-March-2023_files/images/los angeles.png"  height="200" width="300">
+<img src="index/images/los angeles.png"  height="200" width="300">
 
 Los Angeles, CA
 
@@ -61,15 +61,15 @@ Los Angeles, CA
 
 
 
-## Where I am now {data-background="UCI-presentation-March-2023_files/images/la_jolla.jpg" data-state="dim-background"}
+## Where I am now {data-background="index/images/la_jolla.jpg" data-state="dim-background"}
 
-<p class="fragment fade-up"> <img src="UCI-presentation-March-2023_files/images/skaggs.jpg"  height="150" width="450"> </p>
-<p class="fragment fade-up"> <img src="UCI-presentation-March-2023_files/images/veterans.jfif"  height="100" width="450"> </p>
+<p class="fragment fade-up"> <img src="index/images/skaggs.jpg"  height="150" width="450"> </p>
+<p class="fragment fade-up"> <img src="index/images/veterans.jfif"  height="100" width="450"> </p>
 
 
 ## How did I get here? {data-background=#02569B}
 
-<p class="fragment fade-up"> <img src="UCI-presentation-March-2023_files/images/failure.png"  height="200" width="300"> </p>
+<p class="fragment fade-up"> <img src="index/images/failure.png"  height="200" width="300"> </p>
 
 
 ## How did I <bdi style="color:yellow;"> "really" </bdi> get here? 
@@ -79,43 +79,43 @@ Los Angeles, CA
 <p class="fragment fade-up"> If you feel <bdi style="color:red;"> lost </bdi>, that's okay </p>
 
 
-## How I started {data-background="UCI-presentation-March-2023_files/images/roadmap.jpg" data-state="dim-background"}
+## How I started {data-background="index/images/roadmap.jpg" data-state="dim-background"}
 
 <div class="container">
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/uci.png" width="185" height="100">
+  <img class="fragment" src="index/images/uci.png" width="185" height="100">
   <p class="fragment"> (1994-1999) </p> 
 </div>
 
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/westernu.jpg" width="140" height="100">
+  <img class="fragment" src="index/images/westernu.jpg" width="140" height="100">
   <p class="fragment"> (2000-2004) </p> 
 </div>
 
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/valomalinda.png" width="125" height="100">
+  <img class="fragment" src="index/images/valomalinda.png" width="125" height="100">
   <p class="fragment"> (2004-2005) </p> 
 </div>
 
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/westernu.jpg" width="140" height="100">
+  <img class="fragment" src="index/images/westernu.jpg" width="140" height="100">
   <p class="fragment"> (2005-2007) </p> 
 </div>
 </div>
 
 <div class="container">
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/vasdhs.png" width="400" height="100">
+  <img class="fragment" src="index/images/vasdhs.png" width="400" height="100">
   <p class="fragment"> (2007-2013) </p> 
 </div>
 
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/emory.png" width="100" height="160">
+  <img class="fragment" src="index/images/emory.png" width="100" height="160">
   <p class="fragment"> (2011-2013) </p> 
 </div>
 
 <div class="col">
-  <img class="fragment" src="UCI-presentation-March-2023_files/images/choice.png" width="353" height="100">
+  <img class="fragment" src="index/images/choice.png" width="353" height="100">
   <p class="fragment"> (2012-2018) </p> 
 </div>
 </div>
@@ -124,17 +124,17 @@ Los Angeles, CA
 
 ## What I do {data-background-image=#02569B}
 
-<p class="fragment fade-up"> <img src="UCI-presentation-March-2023_files/images/spendingtime.gif" height="300" width="600"> </p>
+<p class="fragment fade-up"> <img src="index/images/spendingtime.gif" height="300" width="600"> </p>
 
 
 ## What I <bdi style="color:yellow;"> "actually" </bdi> do
 
-<p class="fragment fade-up"> <img src="UCI-presentation-March-2023_files/images/research.jpg" height="300" width="600"> </p>
+<p class="fragment fade-up"> <img src="index/images/research.jpg" height="300" width="600"> </p>
 
 
 ## VA Health Economics Resource Center
 
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/va_herc.png" height="400" width="600"> </p>
+<p class="fragment"> <img src="index/images/va_herc.png" height="400" width="600"> </p>
 
 <p class="fragment"> [VA HERC home page](https://www.herc.research.va.gov/include/page.asp?id=about-us) </p>
 
@@ -142,11 +142,11 @@ Los Angeles, CA
 ## VA HERC - CEA of opioid use disorder treatments
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/jama.png" height="400" width="600"> </p>
+<p class="fragment"> <img src="index/images/jama.png" height="400" width="600"> </p>
 </div>
 
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/frontier.png" height="400" width="570"> </p>
+<p class="fragment"> <img src="index/images/frontier.png" height="400" width="570"> </p>
 </div>
 </div>
 
@@ -156,11 +156,11 @@ Los Angeles, CA
 
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/overdose_paper.png" height="170" width="900"> </p>
+<p class="fragment"> <img src="index/images/overdose_paper.png" height="170" width="900"> </p>
 </div>
 
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/overdose_costs.png" height="370" width="520"> </p>
+<p class="fragment"> <img src="index/images/overdose_costs.png" height="370" width="520"> </p>
 </div>
 </div>
 
@@ -170,7 +170,7 @@ Los Angeles, CA
 ## VA San Diego Healthcare System
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/ed_pharmacy.png" height="250" width="684"> </p>
+<p class="fragment"> <img src="index/images/ed_pharmacy.png" height="250" width="684"> </p>
 </div>
 
 <div class="col">
@@ -182,9 +182,9 @@ Los Angeles, CA
 
 
 
-## VA Pharmacy Benefits Management Academic Detailing Services{data-background=#02569B}
+## VA Pharmacy Benefits Management Academic Detailing Services {data-background=#02569B}
 
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/va_ads.png" height="400" width="500"> </p>
+<p class="fragment"> <img src="index/images/va_ads.png" height="400" width="500"> </p>
 
 <p class="fragment"> [VA PBM ADS home page](https://www.pbm.va.gov/PBM/academicdetailingservice/AboutUs.asp) </p>
 
@@ -193,7 +193,7 @@ Los Angeles, CA
 
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/gao_report.png" height="400" width="500"> </p>
+<p class="fragment"> <img src="index/images/gao_report.png" height="400" width="500"> </p>
 </div>
 
 <div class="col">
@@ -204,22 +204,22 @@ Los Angeles, CA
 <p class="fragment"> [GAO-18-380 Report](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjis-W-_uH9AhW6he4BHSaeC7gQFnoECA0QAQ&url=https%3A%2F%2Fwww.gao.gov%2Fassets%2Fgao-18-380.pdf&usg=AOvVaw0vrv6LmZQJPWHo_N71Yedl) </p>
 
 
-## UCSD Skaggs School of Pharmacy & Pharmaceutical Sciences {data-background="UCI-presentation-March-2023_files/images/ucsd_background.png"}
+## UCSD Skaggs School of Pharmacy & Pharmaceutical Sciences {data-background="index/images/ucsd_background.png"}
 
-<img src="UCI-presentation-March-2023_files/images/ucsd_homepage.png" height="300" width="525">
+<img src="index/images/ucsd_homepage.png" height="300" width="525">
 
 [UCSD homepage](https://pharmacy.ucsd.edu/)
 
 
-## Extended cost-effectiveness analysis {data-background="UCI-presentation-March-2023_files/images/ucsd_background.png"}
+## Extended cost-effectiveness analysis {data-background="index/images/ucsd_background.png"}
 
 <div class="container">
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/ecea_project.png" height="250" width="690"> </p>
+<p class="fragment"> <img src="index/images/ecea_project.png" height="250" width="690"> </p>
 </div>
 
 <div class="col">
-<p class="fragment"> <img src="UCI-presentation-March-2023_files/images/ecea_framework.png" height="315" width="300"> </p>
+<p class="fragment"> <img src="index/images/ecea_framework.png" height="315" width="300"> </p>
 </div>
 </div>
 
